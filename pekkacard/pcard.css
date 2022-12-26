@@ -1,0 +1,36 @@
+body{
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.avatar{
+    width: 250px;
+}
+.card{
+    margin: 0px auto;
+    border-color: #b611e8dc;
+    width: 500px;
+    border-radius: 30px;
+    padding: 20px;
+    display: flex;
+    justify-content:space-around;
+    background: #af21da42;
+    color: #111213a8;
+    text-shadow: 0px 1px   #b61ae6;
+    box-shadow: 1px 2px 10px #093458;
+      
+}
+
+img{
+    border-radius: 30px;
+     box-shadow:4px 08px  10px  #863377;
+
+}
+p{
+    font-family: cursive;
+}
+.specs{
+    
+    display: flex;
+    margin-right: 10px;
+    
+}

@@ -1,0 +1,30 @@
+
+body{  
+    margin: 0px;
+    font-family: 'Orbitron', sans-serif;
+    text-align: center;
+    color: #82a5ca;
+}
+   
+#hero{
+     background-image: url("/spaceExploration/guillermo-ferla-Oze6U2m1oYU-unsplash.jpg");
+    background-size:cover;
+    padding: 20px 0 100px 0;
+}
+
+.btn{
+    font-family: 'Orbitron', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 8px 16px;
+    color: #82a5ca;
+    background-color:white;
+    font-weight: 800;
+    border: none;
+}
+#title{
+    text-shadow: 0 0 2px white;
+}
+.underline{
+    border-bottom: 4px solid white;
+}
