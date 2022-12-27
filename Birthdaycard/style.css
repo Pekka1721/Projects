@@ -1,7 +1,8 @@
 body{
     text-align: center;
     font-family: 'Happy Monkey', cursive;
-    background-color: #a2d2ff;
+
+    background: linear-gradient(#a2d2ff,#efb0c9);
     color: #ffffff;
   
     
@@ -38,6 +39,7 @@ h1,h2,h4{
     border-radius: 10px;
     border: 6px solid white;
     background-size: cover;
+    
  
     
 }
@@ -49,4 +51,13 @@ h1,h2,h4{
 }
 #gift-img-hot:hover{
     background-image: url(./images&gifs/happyy.gif);
+}
+#footer{
+    width:400px ;
+    margin: 40px auto 20px;
+    font-style: italic;
+}
+a{
+    color: white;
+    
 }
